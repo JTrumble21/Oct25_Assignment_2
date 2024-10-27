@@ -1,0 +1,6 @@
+Who/what is the "lovely_class"? 
+We are a prestige team of up and coming developers learning and working within the triOS College organization.
+A group of 18 diverse individuals from different backgrounds, all working towards one common goal.
+Eventually fixing the bugs in Microsoft Teams. 
+These bugs test the patience of our coding master on a daily basis! 
+These must be debugged!
